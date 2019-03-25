@@ -1,0 +1,23 @@
+body{
+  background: url(coffee.jpg)no-repeat center center fixed;
+  background-size: cover;
+  padding-top:100px;
+padding-left: 450px}
+
+.ima{
+  height: 250px;
+  width: 350px;
+}
+
+.form-control{
+  width: 500px;
+  padding-left: 200px
+}
+
+.loginhere{
+  color:white;
+}
+
+.form-check-label{
+color:white;
+}
